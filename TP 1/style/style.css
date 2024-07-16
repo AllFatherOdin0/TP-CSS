@@ -1,0 +1,11 @@
+.text {
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    color: white;
+    background-color: black;
+}
+
+img {
+    width: 50%;
+}

@@ -1,8 +1,16 @@
 .btn-group {
     border-collapse: collapse;
+    color: darkblue;
+    background-color: blueviolet;
 }
 
 button {
     border: 1px solid black;
     color: darkblue;
+    background-color: blueviolet;
 }
+button:hover {
+
+    background-color:lightskyblue;
+}
+
